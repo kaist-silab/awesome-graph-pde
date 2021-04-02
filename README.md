@@ -24,7 +24,7 @@ This repo will keep updating, welcome everyone's contribution.
 
 > Traditional applications of GNNs assume an *a priori* notion of entity (such as bodies, links or particles) and match every node in the graph to an entity. We propose to apply GNNs to the problem of modeling transformations of functions defined on continuous spaces, using a structure we call *graph element networks* (GENs). Inspired by finite element methods, we use graph neural networks to mesh a continuous space and define an iterative computation that propagates information from some sampled input values in the space to an output function defined everywhere in the space. 
 
----
+<br>
 
 **Multipole Graph Neural Operator for Parametric Partial Differential Equations**. NeurIPS20. 
 
