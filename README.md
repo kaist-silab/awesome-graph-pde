@@ -32,7 +32,7 @@ This repo will keep updating, welcome everyone's contribution.
 
 > Inspired by the fast multipole method (FMM), we propose a novel hierarchical, and multi-scale graph structure which, when deployed with GNNs, captures global properties of the PDE solution operator with a linear time-complexity. 
 
----
+<br>
 
 **Neural Operator: Graph Kernel Network for Partial Differential Equations**. ICLR20. 
 
@@ -44,7 +44,7 @@ Features:
 
 - This model focus on the real solution of function itself, rathe than pure data simulation, which is novel. 
 
----
+<br>
 
 **Deep Graph Infomax**. ICLR19. 
 
@@ -56,7 +56,7 @@ Features:
 
 - Useful for space continuous. 
 
----
+<br>
 
 **Continuous Graph Flow**. ICLR2020
 
@@ -64,7 +64,7 @@ Features:
 
 > In this paper, we introduce a new class of models – *Continuous Graph Flow* (CGF): a graph gener- ative model based on continuous normalizing flows that generalizes the message passing mechanism in GNNs to continuous time. Specifically, to model continuous time dynamics of the graph variables, we adopt a neural ordinary different equation (ODE) formulation.
 
----
+<br>
 
 ### Physics System Simulation
 
@@ -74,7 +74,7 @@ Features:
 
 > In this paper, we explore a hybrid approach that combines the benefits of (graph) neural networks for fast predictions, with the physical realism of an industry-grade CFD simulator.
 
----
+<br>
 
 **Learning continuous-time PDEs from sparse data with graph neural networks**. ICLR21. 
 
@@ -86,7 +86,7 @@ Features:
 
 - Continuous-time representation of PDE-system. 
 
----
+<br>
 
 **Learning Mesh-Based Simulation with Graph Networks**. ICLR21. 
 
@@ -94,7 +94,7 @@ Features:
 
 > We introduce a method for predicting dynamics of physical systems, which capitalizes on the advantages of adaptive mesh representations. Our method works by encoding the simulation state into a graph, and performing computations in two separate spaces: the mesh-space, spanned by the simulation mesh, and the Euclidean world-space in which the simulation manifold is embedded. By passing messages in mesh-space, we can approximate differential operators that underpin the internal dynamics of most physical systems. 
 
----
+<br>
 
 **Learning to Simulate Complex Physics with Graph Networks**. ICML20. 
 
